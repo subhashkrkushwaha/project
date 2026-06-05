@@ -1,4 +1,4 @@
-Try to uplod both froted and backend
+Try to uplod both froted and backends
 <br></br>
 jay shree 
 <img src="https://github.com/subhashkrkushwaha/ZeroWasteHub/blob/96b2a05f330380e100251d210b8edc5bffc2a556/slashScreen.jpeg" width="200">
